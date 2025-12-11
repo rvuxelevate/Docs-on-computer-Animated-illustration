@@ -1,9 +1,9 @@
 
-  # Animate Document Illustration
+  # Docs-on-computer-Animated-illustration
 
-  To access Figma file, please contact design team.
+  ## To access Figma file, please contact design team.
   
-  This is a code bundle for Animate Document Illustration. The original project is available at https://www.figma.com/design/AANrJMFCG5k8KE0nS6Fc7e/Animate-Document-Illustration.
+  This is a code bundle for Docs-on-computer-Animated-illustration. The original project is available at https://www.figma.com/design/AANrJMFCG5k8KE0nS6Fc7e/Animate-Document-Illustration.
   
   ## Running the code
 
